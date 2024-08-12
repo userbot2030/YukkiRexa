@@ -1,4 +1,4 @@
-![](https://github.com/Rexashh/YukkiRexa/blob/master/d958bb05418639f7ebe67755900f5ad0.gif)
+![](https://github.com/userbot2030/YukkiRexa/blob/master/d958bb05418639f7ebe67755900f5ad0.gif)
 
 <h4 align="center">
      BASE REPO YUKKI MUSIC BOT SAYA HANYA CLONING, MERUBAH / ATAU MENAMBAH BAHASA INDONESIA SUNDA, JAWA, & TOXIC
@@ -12,7 +12,7 @@
 <summary><b>🚀 CONFIG VARS </b></summary>
 <br>
 
-- [klik disini](https://github.com/Rexashh/YukkiRexa/blob/master/config/README.md) Untuk Melihat semua vars yang tersedia
+- [klik disini](https://github.com/userbot2030/YukkiRexa/blob/master/config/README.md) Untuk Melihat semua vars yang tersedia
 </details>
 
 <details>
@@ -28,7 +28,7 @@
 
 ### ʜᴇʀᴏᴋᴜ   
 - klik tombol dibawah untuk deploy via Heroku :
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/Rexashh/YukkiRexa/tree/master"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="150""/></a></p>  
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/userbot2030/YukkiRexa/tree/master"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="150""/></a></p>  
 
 ### ᴠᴘs
 - Upgrade & Update :
@@ -40,7 +40,7 @@
 - Install Node
 `curl -fssL https://deb.nodesource.com/setup_17.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - kloning repository
-`git clone https://github.com/Rexashh/YukkiRexa &&  cd YukkiRexa`
+`git clone https://github.com/userbot2030/YukkiRexa &&  cd YukkiRexa`
 - install requirements
 `pip3 install -U -r requirements.txt`
 - mengganti nama sample.env dengan .env
@@ -58,10 +58,10 @@
 - Fork Repository ini 
 - Klik [OKTETO](https://www.okteto.com)
 - Masukan Var dan data mu, untuk melihat var apa saja yang ada silahkan klik dibawah
-- [List Variable](https://github.com/Rexashh/YukkiRexa/blob/master/config/README.md)
+- [List Variable](https://github.com/userbot2030/YukkiRexa/blob/master/config/README.md)
 
 ### ʟɪsᴛ ᴘᴇʀɪɴᴛᴀʜ
-- Klik [disini](https://github.com/Rexashh/YukkiRexa/blob/master/strings/command.yml) untuk melihat semua perintah pada bot music
+- Klik [disini](https://github.com/userbot2030/YukkiRexa/blob/master/strings/command.yml) untuk melihat semua perintah pada bot music
 
 </details>
 
