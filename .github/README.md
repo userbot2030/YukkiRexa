@@ -27,8 +27,8 @@
 <br>
 
 ### ʜᴇʀᴏᴋᴜ   
-- klik tombol dibawah untuk deploy via Heroku : </h4>
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/userbot2030/YukkiRexa/tree/master"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="150""/></a></p>  
+</h4>klik tombol dibawah untuk deploy via Heroku : </h4>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/userbot2030/YukkiRexa/tree/master"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="150""/></a></p>  
 
 ### ᴠᴘs
 - Upgrade & Update :
